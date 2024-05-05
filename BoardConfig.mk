@@ -146,7 +146,7 @@ BOARD_USES_QCOM_FBE_DECRYPTION := true
 PRODUCT_ENFORCE_VINTF_MANIFEST := true
 
 # TWRP Configuration
-TW_DEVICE_VERSION := 1_MRX7014
+TW_DEVICE_VERSION := 1_YFMARCO
 TW_THEME := portrait_hdpi
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel0-backlight/brightness"
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /config/usb_gadget/g1/functions/mass_storage.0/lun.%d/file
